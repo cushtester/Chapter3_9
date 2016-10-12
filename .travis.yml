@@ -1,3 +1,5 @@
+notifications:
+  slack: top-testing:KqElk9A01LpRWMHMyH9cMdOE
 language: java
 sudo: false
-script: mvn clean verify
+script: mvn clean test
