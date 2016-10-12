@@ -36,5 +36,3 @@ public class SearchGoogleTest {
         searchPage.getNumberOfResults();
     }
 }
-
-// add comment to force commit to git
