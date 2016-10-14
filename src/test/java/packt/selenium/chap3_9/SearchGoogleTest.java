@@ -15,7 +15,6 @@ import java.util.concurrent.TimeUnit;
  * Created by Ripon on 11/19/2015.
  */
 
-// comment to trigger CI //
 
 public class SearchGoogleTest {
     private WebDriver driver;
